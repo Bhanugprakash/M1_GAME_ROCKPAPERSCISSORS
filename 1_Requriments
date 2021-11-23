@@ -15,3 +15,11 @@ WHERE:Github,VSC.
 WHAT:Making a  game for entertainment.
 WHEN:I started working on it.
 HOW:By planning the needs.
+
+HIGH LEVEL REQURIMENTS:
+This project can be implemented by using c language in both windows and linux os. 
+This project requires a random number generator function. 
+  
+LOW LEVEL REQURIMENTS:
+The Random number has to generate the numbers with in the specified range of number.
+The comparasion of the character from the player input and the computer generated has to be taken care.
