@@ -4,3 +4,6 @@
 [![CI](https://github.com/Bhanugprakash/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/blank.yml/badge.svg)](https://github.com/Bhanugprakash/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/blank.yml)
 
 
+https://app.codiga.io/public/project/30028/M1_GAME_ROCKPAPERSCISSORS/dashboard
+https://api.codiga.io/project/30028/score/svg
+https://api.codiga.io/project/30028/status/svg
